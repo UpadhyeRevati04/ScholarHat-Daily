@@ -13,13 +13,19 @@ Each day contains:
 
 | Day | Problem Title | Code File | Explanation |
 |-----|----------------|-----------|-------------|
-| Day 1 | Find the Number of Rotations in a Sorted Array | [FindKRotation.java](Day1\FindKthRotation.java) | [Day01_Find_K_Rotation.md](Day1\Day01_Find_K_Rotation.md) |
+| Day 1 | Find the Number of Rotations in a Sorted Array | [FindKRotation.java](Day1/FindKthRotation.java) | [Day01_Find_K_Rotation.md](Day1/Day01_Find_K_Rotation.md) |
 
 ---
 
 ## 💬 About Me
 
-I’m Revati, an old-school soul with a Gen Z tag—walking the road of wisdom with a sword of logic. I believe every code has a story, and every solution deserves its own song.
+## About Me
+
+I’m Revati, an IT engineering student with a passion for problem-solving and clean code.  
+I enjoy blending timeless logic with modern technology, crafting solutions that are clear, efficient, and meaningful.  
+Currently documenting my daily coding journey on ScholarHat, I aim to grow as a thoughtful and disciplined developer.  
+Always eager to learn, create, and uphold the values of hard work and clarity in every line of code.
+
 
 ---
 

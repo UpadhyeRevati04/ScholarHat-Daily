@@ -14,7 +14,7 @@ Each day contains:
 | Day | Problem Title | Code File | Explanation |
 |-----|----------------|-----------|-------------|
 | Day 1 | Find the Number of Rotations in a Sorted Array | [FindKRotation.java](Day1/FindKthRotation.java) | [Day01_Find_K_Rotation.md](Day1/Day01_Find_K_Rotation.md) |
-
+| Day 2 | Intersection of two linked lists  | [IntersectionofTwoLinkedList.java](Day2/IntersectionofTwoLinkedLists.java) | [Day02_IntersectionofTwoLinkedLists.md](Day2/Day02_IntersectionofTwoLinkedLists.md) | 
 ---
 
 ## 💬 About Me
